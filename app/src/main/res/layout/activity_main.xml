@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:background="#e7e7e7" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="POPULAR MOVIES"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonMovies"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="50dp" />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="STOCK HAWK"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonStock"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="BUILD IT BIGGER"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonBigger"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="MAKE YOUR APP MATERIAL"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonMaterial"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="GO UBIQUITOUS"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonUbiquitious"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="CAPSTONE"
+        android:background="@drawable/buttonmain"
+        android:id="@+id/buttonCapstone"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp" />
+</LinearLayout>
